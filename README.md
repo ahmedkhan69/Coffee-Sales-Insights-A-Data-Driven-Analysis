@@ -1,7 +1,7 @@
 # Coffee-Sales-Insights-A-Data-Driven-Analysis
 
 
-#Overview
+## Overview
 
 This project analyzes coffee shop sales data using Excel to derive actionable insights and create an interactive dashboard. Key components of the project include:
 
