@@ -19,39 +19,39 @@ This project analyzes coffee shop sales data using Excel to derive actionable in
 
 The raw data was processed and cleaned using Power Query Editor:
 
-Removed inconsistencies such as null values, duplicates, and formatting errors.
+- Removed inconsistencies such as null values, duplicates, and formatting errors.
 
 Transformed the dataset by:
 
-Renaming columns for clarity.
+- Renaming columns for clarity.
 
-Adding new calculated columns to meet analysis requirements (e.g., extracting months and weekdays from dates).
+- Adding new calculated columns to meet analysis requirements (e.g., extracting months and weekdays from dates).
 
-Standardizing data types for consistency.
+- Standardizing data types for consistency.
 
 # 2. Pivot Tables
 
 Six PivotTables were created to summarize customer transactions:
 
-Key metrics include:
+# Key metrics include:
 
-Total bills.
+- Total bills.
 
-Transaction IDs.
+- Transaction IDs.
 
-Monthly and weekly breakdowns.
+- Monthly and weekly breakdowns.
 
 # 3. Power Pivot and Measures
 
 Using Power Pivot, several measures were created to calculate KPIs for business insights:
 
-Average Bill: Total revenue divided by the number of transactions.
+- Average Bill: Total revenue divided by the number of transactions.
 
-Total Footfall: Number of unique customers.
+- Total Footfall: Number of unique customers.
 
-Average Bill Per Person: Revenue per individual customer.
+- Average Bill Per Person: Revenue per individual customer.
 
-Average Bill Per Order: Revenue divided by the number of orders.
+- Average Bill Per Order: Revenue divided by the number of orders.
 
 # 4. Interactive Dashboard
 
@@ -59,57 +59,57 @@ The dashboard was designed in Excel with the following components:
 
 Charts:
 
-Pie Chart: Displays sales distribution across product categories.
+- Pie Chart: Displays sales distribution across product categories.
 
-Bar Graph: Highlights monthly revenue trends.
+- Bar Graph: Highlights monthly revenue trends.
 
-Clustered Chart: Compares weekday versus weekend performance.
+- Clustered Chart: Compares weekday versus weekend performance.
 
-Additional visuals to provide a clear representation of KPIs and trends.
+- Additional visuals to provide a clear representation of KPIs and trends.
 
 Slicers:
 
-Two slicers were added for filtering the data dynamically:
+- Two slicers were added for filtering the data dynamically:
 
-Month: Allows users to filter by specific months.
+- Month: Allows users to filter by specific months.
 
-Weekday: Provides insights into day-of-the-week performance.
+- Weekday: Provides insights into day-of-the-week performance.
 
 # 5. Dashboard Features
 
-Interactive Filters: Slicers update all visuals in real-time, making the dashboard highly dynamic.
+- Interactive Filters: Slicers update all visuals in real-time, making the dashboard highly dynamic.
 
-Professional Layout: Charts and KPIs are aligned and styled for clarity and ease of interpretation.
+- Professional Layout: Charts and KPIs are aligned and styled for clarity and ease of interpretation.
 
-Color Coding: Applied to highlight key trends and performance metrics.
+- Color Coding: Applied to highlight key trends and performance metrics.
 
 # Key Insights
 
-High-performing days: Insights into sales trends by weekday.
+- High-performing days: Insights into sales trends by weekday.
 
-Customer behavior: Trends in average bill values and total footfall.
+-Customer behavior: Trends in average bill values and total footfall.
 
-Monthly trends: Identification of peak revenue months.
+- Monthly trends: Identification of peak revenue months.
 
 # Tools and Techniques
 
-Power Query Editor: For cleaning and transforming raw data.
+- Power Query Editor: For cleaning and transforming raw data.
 
-Power Pivot: For advanced data modeling and custom measures.
+- Power Pivot: For advanced data modeling and custom measures.
 
-Excel PivotTables: For summarizing and analyzing data.
+- Excel PivotTables: For summarizing and analyzing data.
 
-Charts: To visualize data trends effectively.
+- Charts: To visualize data trends effectively.
 
-Slicers: For interactive data filtering.
+- Slicers: For interactive data filtering.
 
 # How to Use the Dashboard
 
-Open the Excel file and navigate to the Dashboard sheet.
+1 - Open the Excel file and navigate to the Dashboard sheet.
 
-Use the slicers to filter data by month or weekdays.
+2 - Use the slicers to filter data by month or weekdays.
 
-Explore the interactive charts and KPIs to gain insights into sales performance.
+3 - Explore the interactive charts and KPIs to gain insights into sales performance.
 
 # Conclusion
 
