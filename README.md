@@ -13,7 +13,7 @@ This project analyzes coffee shop sales data using Excel to derive actionable in
 
 -A dynamic and interactive dashboard featuring charts and slicers.
 
-#Project Workflow
+# Project Workflow
 
 1. Data Cleaning and Transformation
 
