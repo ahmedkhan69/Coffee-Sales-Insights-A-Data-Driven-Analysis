@@ -87,7 +87,7 @@ Slicers:
 
 - High-performing days: Insights into sales trends by weekday.
 
--Customer behavior: Trends in average bill values and total footfall.
+- Customer behavior: Trends in average bill values and total footfall.
 
 - Monthly trends: Identification of peak revenue months.
 
